@@ -12,7 +12,12 @@
 		computed: {
 			progress: function() {
 				var tasksCount = this.tasks.length;
-				var tasksDone  = 0;
+
+				if ( ! tasksCount ) {
+					return 0;
+				}
+
+				var tasksDone = 0;
 
 				for ( task in this.tasks ) {
 					if ( ! this.tasks[task].done ) {
