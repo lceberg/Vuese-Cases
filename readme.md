@@ -3,7 +3,7 @@
 ----
 ## About
 
-Example application interfaces build with [Vue.js](http://vuejs.org/).
+Example application interfaces built with [Vue.js](http://vuejs.org/).
 
 Any contributions are welcome and highly anticipated !
 
