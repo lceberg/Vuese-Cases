@@ -1,4 +1,4 @@
-(function() {
+;(function() {
 
 	var Checklist = new Vue({
 
