@@ -1,7 +1,6 @@
 ;(function() {
 
-	Vue.component('gallery', {
-		props: ['active'],
+	Vue.component('gallery', {		
 		data : function() {
 			return {
 				count : 0,
@@ -19,11 +18,11 @@
 			}
 		},
 
-		template: '<div :active="shared.active" class="col-md-5 col-md-offset-3 list-group"><slot></slot></div>'
+		template: '<div class="col-md-5 col-md-offset-3 list-group"><slot></slot></div>'
 	});
 
 	Vue.component('gallery-image', {
-		props   : ['src', 'index', 'active'],
+		props   : ['src', 'index'],
 		template: '<img :src="src" alt="" v-show="index === this.$parent.active" class="list-group-item" />',
 		ready   : function() {
 			this.index = this.$parent.count;
