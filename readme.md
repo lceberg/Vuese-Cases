@@ -20,5 +20,3 @@ Any contributions are welcome and highly anticipated !
 ##### or
 
 - create a new issue with your idea
-
-Thanks in advance ! ^_^
