@@ -11,6 +11,7 @@ Any contributions are welcome and highly anticipated !
 
 * **Checklist** -- [[code](https://github.com/lceberg/Vuese-Cases/tree/master/Checklist)] [[view](https://htmlpreview.github.io/?https://github.com/lceberg/Vuese-Cases/blob/master/Checklist/index.html)]
 * **Gallery** -- [[code](https://github.com/lceberg/Vuese-Cases/tree/master/Gallery)] [[view](https://htmlpreview.github.io/?https://github.com/lceberg/Vuese-Cases/blob/master/Gallery/index.html)]
+* **Filters** -- [[code](https://github.com/lceberg/Vuese-Cases/tree/master/Filters)] [[view](https://htmlpreview.github.io/?https://github.com/lceberg/Vuese-Cases/blob/master/Filters/index.html)]
 
 ## How to contribute
 - fork this repo
